@@ -8,6 +8,5 @@ const sequelizeCon = new Sequelize({
 })
 
 module.exports = {
-    sequelizeCon,
-    Sequelize
+    sequelizeCon
 };
